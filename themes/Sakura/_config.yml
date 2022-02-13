@@ -1,0 +1,136 @@
+# site name
+prefixName: 
+siteName: LawrenceSivan
+# favicon and site master avatar
+favicon: https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/avatar.jpg
+avatar: https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/avatar.jpg
+url: https://lawrencesivan.github.io/
+description: I was so much older then, I'm younger than that now.
+cdn: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
+pjax: 0
+# 1开启
+mathjax: 1
+
+notice: Github博客搭建完成！，文章将同步更新至洛谷，Cnblogs和Github。
+lazyloadImg: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
+
+menus:
+  首页: { path: https://lawrencesivan.github.io/, fa: fa-fort-awesome faa-shake }
+  归档: { path: /archives, fa: fa-archive faa-shake, submenus: { 
+    技术: {path: /categories/技术/, fa: fa-code }, 
+    生活: {path: /categories/生活/, fa: fa-file-text-o }, 
+    代码: {path: /categories/代码/, fa: fa-cloud-download }, 
+    随想: {path: /categories/随想/, fa: fa-commenting-o },
+    转载: {path: /categories/转载/, fa: fa-book }
+  } }
+  清单: { path: javascript:;, fa: fa-list-ul faa-vertical, submenus: { 
+    书单: {path: /tags/悦读/, fa: fa-th-list faa-bounce }, 
+    番组: {path: /bangumi/, fa: fa-film faa-vertical }, 
+    歌单: {path: /music/, fa: fa-headphones },
+    图集: {path: /tags/图集/, fa: fa-photo }
+  } }
+  统计: {path: /analytics/ , fa: fa-line-chart }
+  标签: {path: /tags/, fa: fa-tag }
+  分类: {path: /categories/, fa: fa-bookmark }
+  留言板: { path: /comment/, fa: fa-pencil-square-o faa-tada }
+  友人帐: { path: /links/, fa: fa-link faa-shake }
+  关于: { path: /, fa: fa-leaf faa-wrench , submenus: { 
+    我？: {path: /about/, fa: fa-meetup}, 
+    主题: {path: /theme-sakura/, fa: iconfont icon-sakura },
+    Lab: {path: /lab/, fa: fa-cogs },
+    APP: { path: /client/, fa: fa-android faa-vertical },
+    RSS: { path: /atom.xml, fa: fa-rss faa-pulse }
+  } }
+  
+
+
+# Home page sort type: -1: newer first，1: older first.
+homePageSortType: -1
+# Home page article shown number)
+homeArticleShown: 10
+# 背景图片 更好的修改
+bg:
+  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/1.jpeg
+  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/6.jpeg
+  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/12.jpeg
+  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/15.jpeg
+  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/34.jpg
+  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/32.jpg
+  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/19.jpeg
+  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/31.jpg
+  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/36.png
+  - https://cdn.jsdelivr.net/gh/LawrenceSivan/ima@master/QQ%E5%9B%BE%E7%89%8720211013140453.png
+  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/42.jpg
+
+# 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
+bgclass: filter-dot
+
+# startdash url, title, desc img
+startdash: 
+  - {url: /theme-sakura/, title: Sakura, desc: 本站 hexo 主题, img: /img/startdash/sakura.md.png}
+  - {url: https://space.bilibili.com/671229125, title: Bilibili, desc: 博主的b站视频, img: /img/startdash/bilibili.jpg}
+
+
+
+# your site build time or founded date
+siteBuildingTime: 26/05/2021
+
+#social  url, img PC端配置
+social:
+  github: {url: https://github.com/LawrenceSivan, img: /img/social/github.png}
+  sina: {url: https://weibo.com/7464138878/profile?topnav=1&wvr=6, img: /img/social/sina.png}
+  wangyiyun: {url: https://music.163.com/#/user/home?id=296743009, img: /img/social/wangyiyun.png}
+  zhihu: {url: https://www.zhihu.com/people/lawrence-73-19, img: /img/social/zhihu.png}
+  
+
+#social  url, img 移动端配置
+msocial:
+  github: {url: https://github.com/LawrenceSivan, fa: fa-github, color: 333}
+  weibo: {url: https://weibo.com/7464138878/profile?topnav=1&wvr=6, fa: fa-weibo, color: dd4b39}
+  qq: {url: https://user.qzone.qq.com/1641374235/infocenter, fa: fa-qq, color: 25c6fe}
+
+
+# 视频地址为https://cdn.jsdelivr.net/gh/honjun/hojun@1.2/Unbroken.mp4，配置如下
+movies:
+  url: https://link.jscdn.cn/sharepoint/aHR0cHM6Ly96aGVuZ3poZW5nLW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL25vbl9mcmllZF9jaGlwc19hY3NobF9tZS9FWkIybW5DdWc3SkFqNGJld3lFQmp3SUJDZWwtQVJJcnZ5aHd5a0RHakhONlRnP2U9d2FUUkpr.mp3
+
+  # 多个视频用逗号隔开，随机获取。支持的格式目前已知MP4,Flv。其他的可以试下，不保证有用
+  name: video.mp4
+
+# aplayer: 
+#   id: 6748556286
+#   server: netease
+#   type: playlist
+#   fixed: true
+#   autoplay: false
+#   loop: all
+#   order: random
+#   preload: auto
+#   volume: 0.7
+#   mutex: true
+
+# Valine
+valine: true
+v_appId: dIwCuws5ndk9l6KNX62Yp2v6-gzGzoHsz
+v_appKey: 5KBdadEbfMMamh1KsfIlVDqD
+
+local_search:
+  enable: true
+
+# Whether to display post-calender in the `archive` page
+# 设置在归档页面achive中是否显示'文章日历'控件
+postCalendar: true 
+
+# Waline
+waline:
+  enable: false
+  serverURL: https://comment-i9vowjqt8-lawrencesivan.vercel.app/
+  visitor: true #统计阅读量
+  comment_count: true #统计评论数
+  avatar: mp # Gravatar style : mp/identicon/monsterid/wavatar/retro/hide
+  guest_info: nick #,mail,link # custom comment header
+  pageSize: 10
+  placeholder: 总之岁月漫长，然而值得等待 # Comment Box placeholder
+  requiredFields: [ 'nick','mail' ] #设置必填项
+  background: https://gitee.com/cungudafa/source/raw/master/img/gif/Sitich/Sitich2.gif #输入框提示动画 
+
