@@ -77,7 +77,11 @@ links:
     - url: https://shu-kuang.github.io/
       img: https://shu-kuang.github.io/images/avatar.png
       name: ShuKuang
-      desc: 很强的学弟，未来集训队大佬 orz       
+      desc: 很强的学弟，未来集训队大佬 orz   
+    - url: https://blog-spaceswalker.vercel.app/
+      img: https://cdn.jsdelivr.net/gh/LawrenceSivan/ima/20220210195327.png
+      name: spaceswalker
+      desc: 可爱学弟    
 
   - group: 个人项目
     desc: 充分说明这家伙是条咸鱼 (￣︶￣)

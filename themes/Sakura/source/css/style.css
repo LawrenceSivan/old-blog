@@ -7400,6 +7400,12 @@ to {
 .hljs-ln {
     margin:6px 0 0 0 !important
 }
+.hljs-ln-line:hover {
+    background-color: rgba(255, 255, 255, .1);
+}
+.hljs-ln-line.hljs-ln-n:hover{
+    background-color: rgba(0,0,0,0) !important;
+}
 .highlight td.numbers {
     -webkit-touch-callout:none;
     -webkit-user-select:none;

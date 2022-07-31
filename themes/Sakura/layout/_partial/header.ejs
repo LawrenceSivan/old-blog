@@ -28,7 +28,7 @@
           <ul id="menu-new" class="menu">
             <% for (var menu in theme.menus){ %>
               <li>
-                <a href="<%- url_for(theme.menus[menu].path) %>">
+                <a href="<%- full_url_for(theme.menus[menu].path) %>">
                   <span class="faa-parent animated-hover">
                     <i class="fa  <%= theme.menus[menu].fa %>" aria-hidden="true"></i>
                     <%= menu %>
@@ -38,7 +38,7 @@
                   <ul class="sub-menu">
                     <% for (var submenu in theme.menus[menu].submenus){ %>
                       <li>
-                        <a href="<%- url_for(theme.menus[menu].submenus[submenu].path) %>">
+                        <a href="<%- full_url_for(theme.menus[menu].submenus[submenu].path) %>">
                           <i class="fa <%= theme.menus[menu].submenus[submenu].fa %>" aria-hidden="true"></i>
                           <%= submenu %>
                         </a>

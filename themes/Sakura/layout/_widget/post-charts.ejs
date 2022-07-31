@@ -29,11 +29,11 @@
 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/drew233/cdn/js/echarts.min.js"></script>
 <script>
-    let postsChart = echarts.init(document.getElementById('posts-chart'));
-    let categoriesChart = echarts.init(document.getElementById('categories-chart'));
-    let tagsChart = echarts.init(document.getElementById('tags-chart'));
+    let _bs_postsChart = echarts.init(document.getElementById('posts-chart'));
+    let _bs_categoriesChart = echarts.init(document.getElementById('categories-chart'));
+    let _bs_tagsChart = echarts.init(document.getElementById('tags-chart'));
 
-    <%
+    // <%
     /* calculate postsOption data. */
     var startDate = moment().subtract(1, 'years').startOf('month');
     var endDate = moment().endOf('month');
@@ -58,7 +58,7 @@
     // xAxis data and yAxis data.
     var monthArr = JSON.stringify([...monthMap.keys()]);
     var monthValueArr = JSON.stringify([...monthMap.values()]);
-    %>
+    // %>
 
     let postsOption = {
         title: {
@@ -211,7 +211,7 @@
     };
 
     // render the charts
-    postsChart.setOption(postsOption);
-    categoriesChart.setOption(categoriesOption);
-    tagsChart.setOption(tagsOption);
+    _bs_postsChart.setOption(postsOption);
+    _bs_categoriesChart.setOption(categoriesOption);
+    _bs_tagsChart.setOption(tagsOption);
 </script>
