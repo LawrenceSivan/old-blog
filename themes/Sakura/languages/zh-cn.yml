@@ -44,11 +44,11 @@ insight:
 技术:
     zh: 乱搞
     en: mess about
-    img: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/banner/coding.jpg
+    img: https://gcore.jsdelivr.net/gh/honjun/cdn@1.6/img/banner/coding.jpg
 生活:
     zh: 生活
     en: live
-    img: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/banner/writing.jpg
+    img: https://gcore.jsdelivr.net/gh/honjun/cdn@1.6/img/banner/writing.jpg
 代码:
     zh: 代码寄存区
     en: code
@@ -58,7 +58,7 @@ insight:
 悦读:
     zh: 悦读
     en: books
-    img: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/banner/reading.jpg
+    img: https://gcore.jsdelivr.net/gh/honjun/cdn@1.6/img/banner/reading.jpg
 图集:
     zh: 图集
     en: pictures

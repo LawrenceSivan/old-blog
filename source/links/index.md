@@ -5,7 +5,7 @@ date: 2018-12-19 23:11:06
 keywords: 友人帐
 description: 
 comments: true
-photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/links.jpg
+photos: https://gcore.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/links.jpg
 links:
   - group: 小伙伴们
     desc: 欢迎交换友链 ꉂ(ˊᗜˋ)
@@ -55,7 +55,7 @@ links:
       name: WDS_A001
       desc: 中二少年
     - url: https://blog.baoshuo.ren/
-      img: https://cdn.jsdelivr.net/npm/bsi@0.0.3/avatar-with-border/64x64.png
+      img: https://gcore.jsdelivr.net/npm/bsi@0.0.3/avatar-with-border/64x64.png
       name: 宝硕
       desc: 大巨佬，科技精英%%%
     - url: https://www.cnblogs.com/liang-sheng/
@@ -79,7 +79,7 @@ links:
       name: ShuKuang
       desc: 很强的学弟，未来集训队大佬 orz   
     - url: https://blog-spaceswalker.vercel.app/
-      img: https://cdn.jsdelivr.net/gh/LawrenceSivan/ima/20220210195327.png
+      img: https://gcore.jsdelivr.net/gh/LawrenceSivan/ima/20220210195327.png
       name: spaceswalker
       desc: 可爱学弟    
 

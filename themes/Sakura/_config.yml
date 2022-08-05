@@ -2,17 +2,17 @@
 prefixName: 
 siteName: LawrenceSivan
 # favicon and site master avatar
-favicon: https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/avatar.jpg
-avatar: https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/avatar.jpg
+favicon: https://gcore.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/avatar.jpg
+avatar: https://gcore.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/avatar.jpg
 url: https://lawrencesivan.github.io/
 description: I was so much older then, I'm younger than that now.
-cdn: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
+cdn: https://gcore.jsdelivr.net/gh/honjun/cdn@1.6
 pjax: 0
 # 1开启
 mathjax: 1
 
 notice: Github博客搭建完成！，文章将同步更新至洛谷，Cnblogs和Github。
-lazyloadImg: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
+lazyloadImg: https://gcore.jsdelivr.net/gh/honjun/cdn@1.6/img/loader/orange.progress-bar-stripe-loader.svg
 
 menus:
   首页: { path: https://lawrencesivan.github.io/, fa: fa-fort-awesome faa-shake }
@@ -50,17 +50,17 @@ homePageSortType: -1
 homeArticleShown: 10
 # 背景图片 更好的修改
 bg:
-  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/1.jpeg
-  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/6.jpeg
-  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/12.jpeg
-  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/15.jpeg
-  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/34.jpg
-  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/32.jpg
-  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/19.jpeg
-  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/31.jpg
-  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/36.png
-  - https://cdn.jsdelivr.net/gh/LawrenceSivan/ima@master/QQ%E5%9B%BE%E7%89%8720211013140453.png
-  - https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/42.jpg
+  - https://gcore.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/1.jpeg
+  - https://gcore.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/6.jpeg
+  - https://gcore.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/12.jpeg
+  - https://gcore.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/15.jpeg
+  - https://gcore.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/34.jpg
+  - https://gcore.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/32.jpg
+  - https://gcore.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/19.jpeg
+  - https://gcore.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/31.jpg
+  - https://gcore.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/36.png
+  - https://gcore.jsdelivr.net/gh/LawrenceSivan/ima@master/QQ%E5%9B%BE%E7%89%8720211013140453.png
+  - https://gcore.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/42.jpg
 
 # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
 bgclass: filter-dot
@@ -90,7 +90,7 @@ msocial:
   qq: {url: https://user.qzone.qq.com/1641374235/infocenter, fa: fa-qq, color: 25c6fe}
 
 
-# 视频地址为https://cdn.jsdelivr.net/gh/honjun/hojun@1.2/Unbroken.mp4，配置如下
+# 视频地址为https://gcore.jsdelivr.net/gh/honjun/hojun@1.2/Unbroken.mp4，配置如下
 movies:
   url: https://link.jscdn.cn/sharepoint/aHR0cHM6Ly96aGVuZ3poZW5nLW15LnNoYXJlcG9pbnQuY29tLzp2Oi9nL3BlcnNvbmFsL25vbl9mcmllZF9jaGlwc19hY3NobF9tZS9FWkIybW5DdWc3SkFqNGJld3lFQmp3SUJDZWwtQVJJcnZ5aHd5a0RHakhONlRnP2U9d2FUUkpr.mp3
 

@@ -1,7 +1,7 @@
 ---
 title: CF545E Paths and Trees（最短路径树）
 author: LawrenceSivan
-avatar: https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/avatar.jpg
+avatar: https://gcore.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/avatar.jpg
 authorLink: 'https://lawrencesivan.github.io/'
 comments: true
 mathjax: true

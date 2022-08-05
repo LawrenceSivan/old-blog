@@ -1,7 +1,7 @@
 ---
 title: NTT快速数论变换学习笔记
 author: LawrenceSivan
-avatar: https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/avatar.jpg
+avatar: https://gcore.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/avatar.jpg
 authorLink: 'https://lawrencesivan.github.io/'
 authorAbout: 'I was so much older then, I’m younger than that now.'
 authorDesc: 'I was so much older then, I’m younger than that now.'

@@ -1,7 +1,7 @@
 ---
 title: OI 回忆录
 author: LawrenceSivan
-avatar: 'https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/avatar.jpg'
+avatar: 'https://gcore.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/avatar.jpg'
 authorLink: 'https://lawrencesivan.github.io/'
 authorAbout: 'I was so much older then, I’m younger than that now.'
 authorDesc: 'I was so much older then, I’m younger than that now.'
@@ -12,7 +12,7 @@ categories: 生活
 tags:
 keywords:
 description: 怀念我的 OI 生涯
-photos: https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/42.jpg
+photos: https://gcore.jsdelivr.net/gh/LawrenceSivan/cdn@master/pictures/42.jpg
 ---
 
 # OI 回忆录

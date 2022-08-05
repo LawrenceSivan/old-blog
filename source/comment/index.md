@@ -4,7 +4,7 @@ date: 2021-05-27 15:16:48
 keywords: 留言板
 description: 
 comments: true
-photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/comment.jpg
+photos: https://gcore.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/comment.jpg
 ---
 {% raw %}
 <div class="entry-content">

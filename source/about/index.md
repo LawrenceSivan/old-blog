@@ -4,7 +4,7 @@ date: 2021-05-27 15:30:36
 keywords: 关于
 description: 
 comments: false
-photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/about.jpg
+photos: https://gcore.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/about.jpg
 ---
 {% raw %}
 <!-- 因为vue和botui更新导至bug,现将对话移至js下的botui中配置 -->
@@ -30,7 +30,7 @@ photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/about.jpg
     <bot-ui></botui>
   </div>
 </div>
-<script src="https://cdn.jsdelivr.net/gh/LawrenceSivan/cdn@master/js/botui.js"></script>
+<script src="https://gcore.jsdelivr.net/gh/LawrenceSivan/cdn@master/js/botui.js"></script>
 <script>
 bot_ui_ini()
 </script>
